@@ -18,4 +18,4 @@ And you can run error tests with command: ./eval_tests/test.sh error
     
 [How algoritm looks like while running]
 
-![Example](/Users/eprusako/Documents/shot.png)
+![Example](/img/shot.png)
