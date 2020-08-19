@@ -12,6 +12,7 @@ Then you compile the project :
     make
 
 You can run valid tests with command: ./eval_tests/test.sh valid
+
 And you can run error tests with command: ./eval_tests/test.sh error
 
     E N J O Y ^^
