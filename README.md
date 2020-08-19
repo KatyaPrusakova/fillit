@@ -17,3 +17,5 @@ And you can run error tests with command: ./eval_tests/test.sh error
     E N J O Y ^^
     
 [How algoritm looks like while running]
+
+![Example](/Users/eprusako/Documents/shot.png)
